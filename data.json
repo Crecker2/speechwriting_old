@@ -1,0 +1,24 @@
+{
+ "politicians": [
+  "Hillary Clinton",
+  "Cory Booker",
+  "Pete Buttigieg",
+  "Bernie Sanders",
+  "Joe Biden",
+  "Julián Castro",
+  "Kamala Harris",
+  "Beto O'Rourke",
+  "Elizabeth Warren"
+ ],
+ "issues": [
+  "Climate Change",
+  "Gun Control",
+  "School Prayer",
+  "Abortion",
+  "Healthcare",
+  "Education",
+  "Reparations",
+  "Economic injustice",
+  "Minimum wage"
+ ]
+}
